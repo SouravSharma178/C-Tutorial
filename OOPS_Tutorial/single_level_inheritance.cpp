@@ -17,3 +17,7 @@ int main(){
     B type1;
     return 0;
 }
+// OUTPUT
+
+//Class A
+//Class B
